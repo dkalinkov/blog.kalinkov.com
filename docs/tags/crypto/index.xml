@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crypto on Dimitar Kalinkov - Welcome to my world!</title>
+    <link>https://blog.kalinkov.com/tags/crypto/</link>
+    <description>Recent content in Crypto on Dimitar Kalinkov - Welcome to my world!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2013 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.kalinkov.com/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bitcoin… що е то?</title>
+      <link>https://blog.kalinkov.com/post/2013-06-23-wtf-is-bitcoin/</link>
+      <pubDate>Sun, 23 Jun 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blog.kalinkov.com/post/2013-06-23-wtf-is-bitcoin/</guid>
+      <description>Здравейте! Oт доста време не съм писал нищо ново в блогчето, но причината за това е, че е доста трудно да се измисли тема, която да бъде интересна и едновременно с това актуална. Доста мислих по този въпрос и накрая реших да се спра на нещо, за което от доста време искам да пиша. Bitcoin [1], или по-точно, какво е това животно bitcoin? Общо взето, не са много хората, които са чували това понятие някога през живота си.</description>
+    </item>
+    
+  </channel>
+</rss>

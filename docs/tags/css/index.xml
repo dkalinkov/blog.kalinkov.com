@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Dimitar Kalinkov - Welcome to my world!</title>
+    <link>https://blog.kalinkov.com/tags/css/</link>
+    <description>Recent content in Css on Dimitar Kalinkov - Welcome to my world!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Feb 2013 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.kalinkov.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Минималистично CSS меню</title>
+      <link>https://blog.kalinkov.com/post/2013-02-08-minimal-css-menu/</link>
+      <pubDate>Fri, 08 Feb 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blog.kalinkov.com/post/2013-02-08-minimal-css-menu/</guid>
+      <description>Дойде време да напиша първата си по-сериозна статия. Тъй като един мой приятел ме помоли да му покажа как да си направи стилно уеб меню, реших да направя туториал от който не само той ще има полза, а всички който четат блога ми или ще го четат някога&amp;hellip; Да не забравяме, че изпита на Telerik Academy по CSS наближава, така че все някой ще има полза от публикацията ми. Поради факта, че съм голям фен на минималистичното изкуство ще си направим именно такова меню.</description>
+    </item>
+    
+  </channel>
+</rss>

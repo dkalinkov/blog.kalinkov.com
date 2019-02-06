@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Dimitar Kalinkov - Welcome to my world!</title>
+    <link>https://blog.kalinkov.com/categories/other/</link>
+    <description>Recent content in Other on Dimitar Kalinkov - Welcome to my world!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Mar 2013 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.kalinkov.com/categories/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Harlem Shake?! Why not!</title>
+      <link>https://blog.kalinkov.com/post/2013-03-08-harlem-shake-why-not/</link>
+      <pubDate>Fri, 08 Mar 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blog.kalinkov.com/post/2013-03-08-harlem-shake-why-not/</guid>
+      <description>Интернет е могъщо нещо. Преди няколко месеца имахме първия клип в историята на интернет гледан цели един милиард пъти. А сега са времена на Harlem Shake - прословута поредица от аматьорски, и не чак толкова, клипове, добила култова популярност в интернет пространството; феномен способен да измести дори хита Gangnam Style. Споням си още първия harlem shake, който гледах. Бях го намерил някъде в reddit. Всичко това беше все още в зората на harlem shake клипчетата.</description>
+    </item>
+    
+    <item>
+      <title>Lorem ips... или по-скоро &#39;Здравей Свят!&#39;</title>
+      <link>https://blog.kalinkov.com/post/2013-01-27-hello-world/</link>
+      <pubDate>Sun, 27 Jan 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blog.kalinkov.com/post/2013-01-27-hello-world/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit&amp;hellip; оп (oppan Gangnam style), мисля че нещо обърках. Тестовете трябваше да са свършили и това вече да бъде офиалният първи пост на моя първи блог&amp;hellip; моето &amp;ldquo;Здравей Свят!&amp;rdquo;, което се появява в мрежата след няколко часа редактиране на PHP код, издирване и променяне на вече съществуващи CSS файлове (нека не забравяме и времето, което ми отне да напиша тази статия). В последствие осъзнах, че не е нужно да отделям толкова време за писане и редактиране на кода на Wordpress, след като си има плъгини, който правят всичко автоматично само с 1 клик&amp;hellip; Но кой да знае&amp;hellip; БЕЛЕЖКА!</description>
+    </item>
+    
+  </channel>
+</rss>
